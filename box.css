@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+    font-size: 30px;
+    width: 500;
+}
+.form input{
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border: solid 1px #f4f4f4;
+    border: 1px solid tomato;
+}
+.form{
+    text-align: center;
+    border: 3px solid black;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+   
+    
+}
+.log{
+    background-color: orange;
+    color: #fff;
+    border-radius: 7px;
+    padding: 13px 35px;
+    border: none;
+}
+
